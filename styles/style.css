@@ -160,6 +160,10 @@ hr{
     .motion-item:first-child{
         width: auto;
     }
+
+    .motion-item h3{
+        font-size: 12px;
+    }
 }
 
 
